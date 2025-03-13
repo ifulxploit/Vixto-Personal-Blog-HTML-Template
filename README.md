@@ -4,6 +4,8 @@
 
 🚀 **Vixto** is a beautifully designed **Personal Blog HTML5 Template** that provides an elegant and seamless reading experience for your visitors. Whether you're a blogger, journalist, or writer, Vixto's numerous layouts, beautiful post styles, and light/dark mode options ensure a **modern, eye-catching, and responsive** design across all devices.  
 
+## Demo : [klik untuk melihat demo](https://ifulxploit.github.io/Vixto-Personal-Blog-HTML-Template/)
+
 ## 🌟 Key Features  
 
 ✔️ **2 Homepage Layouts**  
